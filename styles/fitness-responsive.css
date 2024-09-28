@@ -54,6 +54,9 @@
         right: -5%;
         transform: translateY(-10%) translateX(5%)
     }
+    .play-icon{
+        display: block;
+    }
     .video-500-content-title{
         font-size: 1.75rem;
     }
