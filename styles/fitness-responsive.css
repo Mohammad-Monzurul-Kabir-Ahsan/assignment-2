@@ -49,15 +49,13 @@
     }
     .video-500{
         position: absolute;
-        padding: 20px 25px;
-        background-color: rgba(48, 48, 48, 0.54);
-        border-radius: 12px;
+        padding: 12px 15px;
         top: 10%;
-        right: -10%;
+        right: -5%;
         transform: translateY(-10%) translateX(5%)
     }
     .video-500-content-title{
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     /* habits section */
     .habits{
